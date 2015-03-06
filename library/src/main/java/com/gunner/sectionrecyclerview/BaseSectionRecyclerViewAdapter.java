@@ -122,7 +122,7 @@ public abstract class BaseSectionRecyclerViewAdapter extends RecyclerView.Adapte
      * @return the {@link android.support.v7.widget.RecyclerView.ViewHolder} instance of Header
      */
     protected RecyclerView.ViewHolder onCreateHeaderViewHolder(ViewGroup viewGroup) {
-        throw new IllegalAccessError("Please Override this Method if you want to add a 「Header」 to RecyclerView, or " +
+        throw new IllegalAccessError("Please Override this Method if you want to add a Header to RecyclerView, or " +
                 "you should not call setHasHeader(true)");
     }
 
@@ -134,7 +134,7 @@ public abstract class BaseSectionRecyclerViewAdapter extends RecyclerView.Adapte
      * @return the {@link android.support.v7.widget.RecyclerView.ViewHolder} instance of Footer
      */
     protected RecyclerView.ViewHolder onCreateFooterViewHolder(ViewGroup viewGroup) {
-        throw new IllegalAccessError("Please Override this Method if you want to add a 「Footer」 to RecyclerView, or " +
+        throw new IllegalAccessError("Please Override this Method if you want to add a Footer to RecyclerView, or " +
                 "you should not call setHasFooter(true)");
     }
 

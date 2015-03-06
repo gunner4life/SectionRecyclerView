@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SectionRecyclerView">
+        <attr name="layout_type" format="string" />
+        <attr name="span_count" format="integer" />
+    </declare-styleable>
+</resources>

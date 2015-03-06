@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SectionRecyclerView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_list">List</string>
+    <string name="action_grid">Grid</string>
+    <string name="data">{\"categories\":[{\"categoryName\":\"Group 1\",\"categoryId\":1,\"goodsList\":[{\"goodsId\":1,\"goodsName\":\"Product 1\",\"goodsImg\":\"http://img.tqmall.com/images/201412/goods_img/normal_p_141956351256221794.jpg\"},{\"goodsId\":2,\"goodsName\":\"Product 2\",\"goodsImg\":\"http://img.tqmall.com/images/goods/2014/07/03/goods_img/178_G_1404369691958.jpg\"}]},{\"categoryName\":\"Group2\",\"categoryId\":2,\"goodsList\":[{\"goodsId\":3,\"goodsName\":\"Product 3\",\"goodsImg\":\"http://img.tqmall.com/images/goods/2014/09/17/goods_img/5853_G_1410940390051.jpg\"},{\"goodsId\":4,\"goodsName\":\"Product 4\",\"goodsImg\":\"http://img.tqmall.com/images/goods/2014/09/17/goods_img/5861_G_1410940537802.jpg\"},{\"goodsId\":5,\"goodsName\":\"Product 5\",\"goodsImg\":\"http://img.tqmall.com/images/goods/2014/09/17/goods_img/5867_G_1410942622728.jpg\"},{\"goodsId\":6,\"goodsName\":\"Product 6\",\"goodsImg\":\"http://img.tqmall.com/images/goods/2014/03/28/goods_img/8137_G_1395978001019.jpg\"}]},{\"categoryName\":\"Group 3\",\"categoryId\":3,\"goodsList\":[{\"goodsId\":7,\"goodsName\":\"Product 7\",\"goodsImg\":\"http://img.tqmall.com/images/goods/2014/08/11/goods_img/23534_P_1407759372963.jpg\"},{\"goodsId\":8,\"goodsName\":\"Product 8\",\"goodsImg\":\"http://img.tqmall.com/images/goods/2014/06/27/goods_img/20816_P_1403833726542.jpg\"}]}]}</string>
+</resources>
